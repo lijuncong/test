@@ -7,3 +7,5 @@ WORKDIR /data/
 ADD log /data/
 
 ENTRYPOINT ["./log"]
+
+EVN aa=kk
