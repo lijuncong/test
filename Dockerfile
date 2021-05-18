@@ -7,5 +7,3 @@ WORKDIR /data/
 ADD log /data/
 
 ENTRYPOINT ["./log"]
-
-ENV aa=ll
