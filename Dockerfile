@@ -1,9 +1,3 @@
-FROM centos
+FROM nginx:latest
   
-MAINTAINER langwei "langwei@tencent.com"
-
-WORKDIR /data/
-
-ADD log /data/
-
-ENTRYPOINT ["./log"]
+MAINTAINER l-1
