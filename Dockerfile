@@ -1,2 +1,2 @@
 FROM nginx:latest
-MAINTAINER V1
+MAINTAINER V1v2v3
