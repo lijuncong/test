@@ -1,2 +1,2 @@
 FROM nginx:latest
-MAINTAINER jccoli
+MAINTAINER jccoli_1
