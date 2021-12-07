@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM ubuntu:latest
 MAINTAINER jccoli_1234446565gfgfgfggf65
