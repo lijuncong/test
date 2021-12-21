@@ -1,2 +1,2 @@
 FROM nginx:latest
-MAINTAINER jcc34
+MAINTAINER jcc34656gf
