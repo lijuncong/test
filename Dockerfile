@@ -1,2 +1,2 @@
 FROM nginx:latest
-MAINTAINER jc12
+MAINTAINER jc1254f
